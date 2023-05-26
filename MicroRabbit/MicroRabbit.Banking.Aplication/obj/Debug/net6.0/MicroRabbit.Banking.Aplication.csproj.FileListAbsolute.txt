@@ -1,0 +1,17 @@
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\bin\Debug\net6.0\MicroRabbit.Banking.Aplication.deps.json
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\bin\Debug\net6.0\MicroRabbit.Banking.Aplication.dll
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\bin\Debug\net6.0\MicroRabbit.Banking.Aplication.pdb
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\bin\Debug\net6.0\MicroRabbit.Banking.Domain.dll
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\bin\Debug\net6.0\MicroRabbit.Banking.Domain.pdb
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\net6.0\MicroRabbit.Banking.Aplication.csproj.AssemblyReference.cache
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\net6.0\MicroRabbit.Banking.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\net6.0\MicroRabbit.Banking.Aplication.AssemblyInfoInputs.cache
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\net6.0\MicroRabbit.Banking.Aplication.AssemblyInfo.cs
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\net6.0\MicroRabbit.Banking.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\net6.0\MicroRabbit.Banking.Aplication.csproj.CopyComplete
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\net6.0\MicroRabbit.Banking.Aplication.dll
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\net6.0\refint\MicroRabbit.Banking.Aplication.dll
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\net6.0\MicroRabbit.Banking.Aplication.pdb
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\net6.0\ref\MicroRabbit.Banking.Aplication.dll
