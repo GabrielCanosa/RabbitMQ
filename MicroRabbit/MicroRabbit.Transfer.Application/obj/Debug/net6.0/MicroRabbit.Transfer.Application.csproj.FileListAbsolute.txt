@@ -1,0 +1,17 @@
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\net6.0\MicroRabbit.Transfer.Application.deps.json
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\net6.0\MicroRabbit.Transfer.Application.dll
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\net6.0\MicroRabbit.Transfer.Application.pdb
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\net6.0\MicroRabbit.Domain.Core.dll
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\net6.0\MicroRabbit.Transfer.Domain.dll
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\net6.0\MicroRabbit.Domain.Core.pdb
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\net6.0\MicroRabbit.Transfer.Domain.pdb
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\net6.0\MicroRabbit.Transfer.Application.csproj.AssemblyReference.cache
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\net6.0\MicroRabbit.Transfer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\net6.0\MicroRabbit.Transfer.Application.AssemblyInfoInputs.cache
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\net6.0\MicroRabbit.Transfer.Application.AssemblyInfo.cs
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\net6.0\MicroRabbit.Transfer.Application.csproj.CoreCompileInputs.cache
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\net6.0\MicroRabbit.Transfer.Application.csproj.CopyComplete
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\net6.0\MicroRabbit.Transfer.Application.dll
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\net6.0\refint\MicroRabbit.Transfer.Application.dll
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\net6.0\MicroRabbit.Transfer.Application.pdb
+C:\Users\gusti\source\repos\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\net6.0\ref\MicroRabbit.Transfer.Application.dll
