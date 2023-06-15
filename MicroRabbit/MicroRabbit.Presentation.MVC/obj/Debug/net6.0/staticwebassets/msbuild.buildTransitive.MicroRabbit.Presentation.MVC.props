@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MicroRabbit.Presentation.MVC.props" />
+</Project>
